@@ -1,6 +1,7 @@
 module.exports = {
   title: 'exSOUL.github.io',
   description: 'exSOULのSandboxみたいなもの',
+  dest: 'docs',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
